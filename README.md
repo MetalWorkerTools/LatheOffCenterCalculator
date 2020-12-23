@@ -6,7 +6,8 @@ A Free Windows 10 App for calculating dimensions of spacer(s), needed for off ce
 Version 1.1.18 is released on 12-2020
 
 New in this version:
-- The turning diameter is calculated
+- The turning diameter is calculated based on the _Diameter_ and the _Offset_
 
 
 
+## Use **"Issues"** to report a bug or request a feature
