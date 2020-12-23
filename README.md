@@ -10,3 +10,5 @@ A Free Windows 10 App for calculating dimensions of spacer(s), needed for off ce
   
 
 ## Use [**Issues**](https://github.com/MetalWorkerTools/LatheOffCenterCalculator/issues) to report a bug or request a feature  
+
+![Alt Text](https://github.com/MetalWorkerTools/LatheOffCenterCalculator/blob/main/2%20Spacer.PNG)
